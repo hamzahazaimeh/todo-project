@@ -1,3 +1,4 @@
 # todo-project
 
-![image](WireFrame.jpg)
+![image](About.jpg)
+![image](Home page.jpg)
